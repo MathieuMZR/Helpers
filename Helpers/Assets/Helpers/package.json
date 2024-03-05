@@ -1,0 +1,13 @@
+{
+	"name": "com.mmeziere.helpers",
+	"version": "0.0.1",
+	"displayName": "Helpers",
+	"description": "Collection of utility and helpers functions to be used in Unity.",
+	"unity": "2021.3",
+	"author": "Mathieu MEZIERE",
+	"keywords": ["Utilities","Helpers"],
+	"dependencies": 
+	{
+		"com.unity.collections": "1.2.4"
+	}
+ }
